@@ -9,9 +9,11 @@ import {
   Zap,
   Star,
 } from "lucide-react";
-import logo from "./assets/logo.png";
+
+
 
 function App() {
+  const logo = "/CurvDzn.png";
   const [email, setEmail] = useState("");
   const [isSubmitted, setIsSubmitted] = useState(false);
   const [timeLeft, setTimeLeft] = useState({

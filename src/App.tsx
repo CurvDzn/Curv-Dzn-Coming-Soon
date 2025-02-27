@@ -239,7 +239,7 @@ function App() {
               className="text-lg md:text-xl text-gray-300 mb-8 max-w-2xl animate-fade-in-up"
               style={{ animationDelay: "0.3s" }}
             >
-              We're crafting a new experience in design. Join our waitlist to be
+              We're crafting a new experience in design & development. Join our waitlist to be
               the first to know when we launch.
             </p>
 
